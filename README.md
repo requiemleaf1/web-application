@@ -1,4 +1,4 @@
 # web-application
-configurate git repository locally and remotely to track and synchronize the project source code
+configure git repository locally and remotely to track and synchronize the project source code
 
-ggg
+set NPM Lite-server to serve the project on browser(set local host on browser)
